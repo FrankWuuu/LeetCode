@@ -1,3 +1,4 @@
 # LeetCode
 LeetCode code
-practice makes perfect！
+
+Practice makes perfect！
